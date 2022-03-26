@@ -1,0 +1,1 @@
+{"file": "deer10078.jpg", "image_size": [{"width": 800, "height": 600, "depth": 3}], "annotations": [{"class_id": 0, "left": 224.88, "top": 220.32, "width": 435.16, "height": 358.66}], "categories": [{"class_id": 0, "name": "deer"}]}

@@ -1,0 +1,1 @@
+{"file": "turkey0084.jpg", "image_size": [{"width": 1599, "height": 1199, "depth": 3}], "annotations": [{"class_id": 2, "left": 864.04, "top": 847.07, "width": 166.88, "height": 286.08}, {"class_id": 2, "left": 1054.76, "top": 605.87, "width": 295.89, "height": 387.05}], "categories": [{"class_id": 2, "name": "turkey"}, {"class_id": 2, "name": "turkey"}]}

@@ -1,0 +1,1 @@
+{"file": "Hog_865814043034162-file20220309133241KSVTY.JPG", "image_size": [{"width": 1024, "height": 768, "depth": 3}], "annotations": [{"class_id": 1, "left": 0.0, "top": 412.31, "width": 69.18, "height": 102.4}, {"class_id": 1, "left": 67.38, "top": 380.87, "width": 75.46, "height": 107.79}], "categories": [{"class_id": 1, "name": "hog"}, {"class_id": 1, "name": "hog"}]}

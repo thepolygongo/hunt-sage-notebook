@@ -1,0 +1,1 @@
+{"file": "flip_turkey0024.jpg", "image_size": [{"width": 1024, "height": 768, "depth": 3}], "annotations": [{"class_id": 2, "left": 588.3399999999999, "top": 152.72, "width": 308.1, "height": 384.44}], "categories": [{"class_id": 2, "name": "turkey"}]}

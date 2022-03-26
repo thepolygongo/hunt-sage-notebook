@@ -1,0 +1,1 @@
+{"file": "flip_deer10088.jpg", "image_size": [{"width": 2688, "height": 1512, "depth": 3}], "annotations": [{"class_id": 0, "left": 1074.2100000000003, "top": 815.57, "width": 616.53, "height": 394.67}, {"class_id": 0, "left": 1774.82, "top": 866.94, "width": 273.23, "height": 284.92}], "categories": [{"class_id": 0, "name": "deer"}, {"class_id": 0, "name": "deer"}]}

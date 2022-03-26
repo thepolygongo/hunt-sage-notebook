@@ -1,0 +1,1 @@
+{"file": "Hog_864049051898122-file20220316203534DHSEU.JPG", "image_size": [{"width": 1024, "height": 768, "depth": 3}], "annotations": [{"class_id": 1, "left": 116.79, "top": 423.99, "width": 92.52, "height": 96.11}, {"class_id": 1, "left": 174.27, "top": 616.21, "width": 409.6, "height": 107.79}], "categories": [{"class_id": 1, "name": "hog"}, {"class_id": 1, "name": "hog"}]}
